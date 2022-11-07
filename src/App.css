@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.letter {
+  color: red;
+  font-size: 30px;
+}
+
+.letter:hover {
+  color: gold;
+  font-size: 40px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -32,6 +44,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

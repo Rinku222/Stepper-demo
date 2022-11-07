@@ -1,0 +1,641 @@
+{
+    "_id": "635bca7d6621778d3f7ee2a9",
+    "id": "ela",
+    "title": "ELA",
+    "subject": {
+        "_id": "635bc9596621778d3f7ee263",
+        "title": "Literacy"
+    },
+    "grade": {
+        "_id": "635bc49d946af9c7012e64e1",
+        "title": "2"
+    },
+    "tree": [
+        {
+            "id": "R.3",
+            "title": "CCSS.ELA-Literacy.R.3 - Reading",
+            "topics": [
+                {
+                    "id": "RL.3",
+                    "title": "CCSS.ELA-Literacy.RL.3 - Literature",
+                    "topics": [
+                        {
+                            "title": "Key Ideas and Details",
+                            "topics": [
+                                {
+                                    "id": "3.RL.3.1",
+                                    "description": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers."
+                                },
+                                {
+                                    "id": "3.RL.3.2",
+                                    "description": "Recount stories, including fables, folktales, and myths from diverse cultures; determine the central message, lesson, or moral and explain how it is conveyed through key details in the text."
+                                },
+                                {
+                                    "id": "3.RL.3.3",
+                                    "description": "Describe characters in a story (e.g., their traits, motivations, or feelings) and explain how their actions contribute to the sequence of events."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Craft and Structure",
+                            "topics": [
+                                {
+                                    "id": "3.RL.3.4",
+                                    "description": "Determine the meaning of words and phrases as they are used in a text, distinguishing literal from nonliteral language."
+                                },
+                                {
+                                    "id": "3.RL.3.5",
+                                    "description": "Refer to parts of stories, dramas, and poems when writing or speaking about a text, using terms such as chapter, scene, and stanza; describe how each successive part builds on earlier sections."
+                                },
+                                {
+                                    "id": "3.RL.3.6",
+                                    "description": "Distinguish their own point of view from that of the narrator or those of the characters."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Integration of Knowledge and Ideas",
+                            "topics": [
+                                {
+                                    "id": "3.RL.3.7",
+                                    "description": "Explain how specific aspects of a text‚Äôs illustrations contribute to what is conveyed by the words in a story (e.g., create mood, emphasize aspects of a character or setting)."
+                                },
+                                {
+                                    "id": "3.RL.3.9",
+                                    "description": "Compare and contrast the themes, settings, and plots of stories written by the same author about the same or similar characters (e.g., in books from a series)."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Range of Reading and Level of Text Complexity",
+                            "topics": [
+                                {
+                                    "id": "3.RL.3.10",
+                                    "description": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 2‚Äì3 text complexity band independently and proficiently."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "RI.3",
+                    "title": "CCSS.ELA-Literacy.RI.3 - Informational Text",
+                    "topics": [
+                        {
+                            "title": "Key Ideas and Details",
+                            "topics": [
+                                {
+                                    "id": "3.RI.3.1",
+                                    "description": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers."
+                                },
+                                {
+                                    "id": "3.RI.3.2",
+                                    "description": "Determine the main idea of a text; recount the key details and explain how they support the main idea."
+                                },
+                                {
+                                    "id": "3.RI.3.3"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Craft and Structure",
+                            "topics": [
+                                {
+                                    "id": "3.RI.3.4",
+                                    "description": "Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 3 topic or subject area."
+                                },
+                                {
+                                    "id": "3.RI.3.5",
+                                    "description": "Use text features and search tools (e.g., key words, sidebars, hyperlinks) to locate information relevant to a given topic efficiently."
+                                },
+                                {
+                                    "id": "3.RI.3.6",
+                                    "description": "Distinguish their own point of view from that of the author of a text."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Integration of Knowledge and Ideas",
+                            "topics": [
+                                {
+                                    "id": "3.RI.3.7",
+                                    "description": "Use information gained from illustrations (e.g., maps, photographs) and the words in a text to demonstrate understanding of the text (e.g., where, when, why, and how key events occur)."
+                                },
+                                {
+                                    "id": "3.RI.3.8",
+                                    "description": "Describe the logical connection between particular sentences and paragraphs in a text (e.g., comparison, cause/effect, first/second/third in a sequence)."
+                                },
+                                {
+                                    "id": "3.RI.3.9",
+                                    "description": "Compare and contrast the most important points and key details presented in two texts on the same topic."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Range of Reading and Level of Text Complexity",
+                            "topics": [
+                                {
+                                    "id": "3.RI.3.10",
+                                    "description": "By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 2‚Äì3 text complexity band independently and proficiently."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "RF.3",
+                    "title": "CCSS.ELA-Literacy.RF.3 - Foundational Skills",
+                    "topics": [
+                        {
+                            "title": "Phonics and Word Recognition",
+                            "topics": [
+                                {
+                                    "id": "3.RF.3.3",
+                                    "description": "Know and apply grade-level phonics and word analysis skills in decoding words."
+                                },
+                                {
+                                    "id": "3.RF.3.3.A",
+                                    "description": "Identify and know the meaning of the most common prefixes and derivational suffixes."
+                                },
+                                {
+                                    "id": "3.RF.3.3.B",
+                                    "description": "Decode words with common Latin suffixes."
+                                },
+                                {
+                                    "id": "3.RF.3.3.C",
+                                    "description": "Decode multisyllable words."
+                                },
+                                {
+                                    "id": "3.RF.3.3.D",
+                                    "description": "Read grade-appropriate irregularly spelled words."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Fluency",
+                            "topics": [
+                                {
+                                    "id": "3.RF.3.4",
+                                    "description": "Read with sufficient accuracy and fluency to support comprehension."
+                                },
+                                {
+                                    "id": "3.RF.3.4.A",
+                                    "description": "Read grade-level text with purpose and understanding."
+                                },
+                                {
+                                    "id": "3.RF.3.4.B",
+                                    "description": "Read grade-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings."
+                                },
+                                {
+                                    "id": "3.RF.3.4.C",
+                                    "description": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "_id": "635bca7d6621778d3f7ee2aa"
+        },
+        {
+            "id": "W.3",
+            "title": "CCSS.ELA-Literacy.W.3 - Writing",
+            "topics": [
+                {
+                    "id": "W.3",
+                    "title": "Text Types and Purposes",
+                    "topics": [
+                        {
+                            "id": "3.W.3.1",
+                            "title": "CCSS.ELA-Literacy.W.3.1",
+                            "description": "Write opinion pieces on topics or texts, supporting a point of view with reasons.",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.1.A",
+                                    "description": "Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that lists reasons."
+                                },
+                                {
+                                    "id": "3.W.3.1.B",
+                                    "description": "Provide reasons that support the opinion."
+                                },
+                                {
+                                    "id": "3.W.3.1.C",
+                                    "description": "Use linking words and phrases (e.g., because, therefore, since, for example) to connect opinion and reasons."
+                                },
+                                {
+                                    "id": "3.W.3.1.D",
+                                    "description": "Provide a concluding statement or section."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.W.3.2",
+                            "title": "CCSS.ELA-Literacy.W.3.2",
+                            "description": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.2.A",
+                                    "description": "Introduce a topic and group related information together; include illustrations when useful to aiding comprehension."
+                                },
+                                {
+                                    "id": "3.W.3.2.B",
+                                    "description": "Develop the topic with facts, definitions, and details."
+                                },
+                                {
+                                    "id": "3.W.3.2.C",
+                                    "description": "Use linking words and phrases (e.g., also, another, and, more, but) to connect ideas within categories of information."
+                                },
+                                {
+                                    "id": "3.W.3.2.D",
+                                    "description": "Provide a concluding statement or section."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.W.3.3",
+                            "title": "CCSS.ELA-Literacy.W.3.3",
+                            "description": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.3.A",
+                                    "description": "Establish a situation and introduce a narrator and/or characters; organize an event sequence that unfolds naturally."
+                                },
+                                {
+                                    "id": "3.W.3.3.B",
+                                    "description": "Use dialogue and descriptions of actions, thoughts, and feelings to develop experiences and events or show the response of characters to situations."
+                                },
+                                {
+                                    "id": "3.W.3.3.C",
+                                    "description": "Use temporal words and phrases to signal event order."
+                                },
+                                {
+                                    "id": "3.W.3.3.D",
+                                    "description": "Provide a sense of closure."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "W.3",
+                    "title": "Production and Distribution of Writing",
+                    "topics": [
+                        {
+                            "id": "3.W.3.4",
+                            "title": "CCSS.ELA-Literacy.W.3.4",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.4",
+                                    "description": "With guidance and support from adults, produce writing in which the development and organization are appropriate to task and purpose. (Grade-specific expectations for writing types are defined in standards 1-3 above.)"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.W.3.5",
+                            "title": "CCSS.ELA-Literacy.W.3.5",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.5",
+                                    "description": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing. (Editing for conventions should demonstrate command of Language standards 1-3 up to and including grade 3 here.)"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.W.3.6",
+                            "title": "CCSS.ELA-Literacy.W.3.6",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.6",
+                                    "description": "With guidance and support from adults, use technology to produce and publish writing (using keyboarding skills) as well as to interact and collaborate with others."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "W.3",
+                    "title": "Research to Build and Present Knowledge",
+                    "topics": [
+                        {
+                            "id": "3.W.3.7",
+                            "title": "CCSS.ELA-Literacy.W.3.7",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.7",
+                                    "description": "Conduct short research projects that build knowledge about a topic."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.W.3.8",
+                            "title": "CCSS.ELA-Literacy.W.3.8",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.8",
+                                    "description": "Recall information from experiences or gather information from print and digital sources; take brief notes on sources and sort evidence into provided categories."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "W.3",
+                    "title": "Range of Writing",
+                    "topics": [
+                        {
+                            "id": "3.W.3.10",
+                            "title": "CCSS.ELA-Literacy.W.3.10",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.W.3.10",
+                                    "description": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "_id": "635bca7d6621778d3f7ee2ab"
+        },
+        {
+            "id": "SL.3",
+            "title": "CCSS.ELA-Literacy.SL.3 - Speaking and Listening",
+            "topics": [
+                {
+                    "id": "SL.3",
+                    "title": "Comprehension and Collaboration",
+                    "topics": [
+                        {
+                            "id": "3.SL.3.1",
+                            "title": "CCSS.ELA-Literacy.SL.3.1",
+                            "description": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
+                            "topics": [
+                                {
+                                    "id": "3.SL.3.1.A",
+                                    "description": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion."
+                                },
+                                {
+                                    "id": "3.SL.3.1.B",
+                                    "description": "Follow agreed-upon rules for discussions (e.g., gaining the floor in respectful ways, listening to others with care, speaking one at a time about the topics and texts under discussion)."
+                                },
+                                {
+                                    "id": "3.SL.3.1.C",
+                                    "description": "Ask questions to check understanding of information presented, stay on topic, and link their comments to the remarks of others."
+                                },
+                                {
+                                    "id": "3.SL.3.1.D",
+                                    "description": "Explain their own ideas and understanding in light of the discussion."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.SL.3.2",
+                            "title": "CCSS.ELA-Literacy.SL.3.2",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.SL.3.2",
+                                    "description": "Determine the main ideas and supporting details of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.SL.3.3",
+                            "title": "CCSS.ELA-Literacy.SL.3.3",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.SL.3.3",
+                                    "description": "Ask and answer questions about information from a speaker, offering appropriate elaboration and detail."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "SL.3",
+                    "title": "Presentation of Knowledge and Ideas",
+                    "topics": [
+                        {
+                            "id": "3.SL.3.4",
+                            "title": "CCSS.ELA-Literacy.SL.3.4",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.SL.3.4",
+                                    "description": "Report on a topic or text, tell a story, or recount an experience with appropriate facts and relevant, descriptive details, speaking clearly at an understandable pace."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.SL.3.5",
+                            "title": "CCSS.ELA-Literacy.SL.3.5",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.SL.3.5",
+                                    "description": "Create engaging audio recordings of stories or poems that demonstrate fluid reading at an understandable pace; add visual displays when appropriate to emphasize or enhance certain facts or details."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.SL.3.6",
+                            "title": "CCSS.ELA-Literacy.SL.3.6",
+                            "description": "",
+                            "topics": [
+                                {
+                                    "id": "3.SL.3.6",
+                                    "description": "Speak in complete sentences when appropriate to task and situation in order to provide requested detail or clarification. (See grade 3 Language standards 1 and 3 here for specific expectations.)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "_id": "635bca7d6621778d3f7ee2ac"
+        },
+        {
+            "id": "L.3",
+            "title": "CCSS.ELA-Literacy.L.3 - Language",
+            "topics": [
+                {
+                    "id": "L.3",
+                    "title": "Conventions of Standard English",
+                    "topics": [
+                        {
+                            "id": "3.L.3.1",
+                            "title": "CCSS.ELA-Literacy.L.3.1",
+                            "description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+                            "topics": [
+                                {
+                                    "id": "3.L.3.1.A",
+                                    "description": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences."
+                                },
+                                {
+                                    "id": "3.L.3.1.B",
+                                    "description": "Form and use regular and irregular plural nouns."
+                                },
+                                {
+                                    "id": "3.L.3.1.C",
+                                    "description": "Use abstract nouns (e.g., childhood)."
+                                },
+                                {
+                                    "id": "3.L.3.1.D",
+                                    "description": "Form and use regular and irregular verbs."
+                                },
+                                {
+                                    "id": "3.L.3.1.E",
+                                    "description": "Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses."
+                                },
+                                {
+                                    "id": "3.L.3.1.F",
+                                    "description": "Ensure subject-verb and pronoun-antecedent agreement.*"
+                                },
+                                {
+                                    "id": "3.L.3.1.G",
+                                    "description": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified."
+                                },
+                                {
+                                    "id": "3.L.3.1.H",
+                                    "description": "Use coordinating and subordinating conjunctions."
+                                },
+                                {
+                                    "id": "3.L.3.1.I",
+                                    "description": "Produce simple, compound, and complex sentences."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.L.3.2",
+                            "title": "CCSS.ELA-Literacy.L.3.2",
+                            "description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+                            "topics": [
+                                {
+                                    "id": "3.L.3.2.A",
+                                    "description": "Capitalize appropriate words in titles."
+                                },
+                                {
+                                    "id": "3.L.3.2.B",
+                                    "description": "Use commas in addresses."
+                                },
+                                {
+                                    "id": "3.L.3.2.C",
+                                    "description": "Use commas and quotation marks in dialogue."
+                                },
+                                {
+                                    "id": "3.L.3.2.D",
+                                    "description": "Form and use possessives."
+                                },
+                                {
+                                    "id": "3.L.3.2.E",
+                                    "description": "Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness)."
+                                },
+                                {
+                                    "id": "3.L.3.2.F",
+                                    "description": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words."
+                                },
+                                {
+                                    "id": "3.L.3.2.G",
+                                    "description": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "L.3",
+                    "title": "Knowledge of Language",
+                    "topics": [
+                        {
+                            "id": "3.L.3.3",
+                            "title": "CCSS.ELA-Literacy.L.3.3",
+                            "description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+                            "topics": [
+                                {
+                                    "id": "3.L.3.3.A",
+                                    "description": "Choose words and phrases for effect.*"
+                                },
+                                {
+                                    "id": "3.L.3.3.B",
+                                    "description": "Recognize and observe differences between the conventions of spoken and written standard English."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "L.3",
+                    "title": "Vocabulary Acquisition and Use",
+                    "topics": [
+                        {
+                            "id": "3.L.3.4",
+                            "title": "CCSS.ELA-Literacy.L.3.4",
+                            "description": "Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
+                            "topics": [
+                                {
+                                    "id": "3.L.3.4.A",
+                                    "description": "Use sentence-level context as a clue to the meaning of a word or phrase."
+                                },
+                                {
+                                    "id": "3.L.3.4.B",
+                                    "description": "Determine the meaning of the new word formed when a known affix is added to a known word (e.g., agreeable/disagreeable, comfortable/uncomfortable, care/careless, heat/preheat)."
+                                },
+                                {
+                                    "id": "3.L.3.4.C",
+                                    "description": "Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., company, companion)."
+                                },
+                                {
+                                    "id": "3.L.3.4.D",
+                                    "description": "Use glossaries or beginning dictionaries, both print and digital, to determine or clarify the precise meaning of key words and phrases."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.L.3.5",
+                            "title": "CCSS.ELA-Literacy.L.3.5",
+                            "description": "Demonstrate understanding of figurative language, word relationships and nuances in word meanings.",
+                            "topics": [
+                                {
+                                    "id": "3.L.3.5.A",
+                                    "description": "Distinguish the literal and nonliteral meanings of words and phrases in context (e.g., take steps)."
+                                },
+                                {
+                                    "id": "3.L.3.5.B",
+                                    "description": "Identify real-life connections between words and their use (e.g., describe people who are friendly or helpful)."
+                                },
+                                {
+                                    "id": "3.L.3.5.C",
+                                    "description": "Distinguish shades of meaning among related words that describe states of mind or degrees of certainty (e.g., knew, believed, suspected, heard, wondered)."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3.L.3.6",
+                            "title": "CCSS.ELA-Literacy.L.3.6",
+                            "description": "Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them).",
+                            "topics": [
+                                {
+                                    "id": "3.L.3.6",
+                                    "description": "Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them)."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "_id": "635bca7d6621778d3f7ee2ad"
+        }
+    ],
+    "image": "https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png",
+    "isDeleted": false,
+    "topics": [],
+    "createdAt": "2022-10-28T12:26:37.126Z",
+    "updatedAt": "2022-10-28T12:26:37.126Z",
+    "commonCoreStdId": "635bca7d6621778d3f7ee2a9"
+}
