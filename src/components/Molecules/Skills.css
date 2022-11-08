@@ -1,0 +1,12 @@
+.heading {
+  margin: 20px 0px;
+  text-transform: capitalize;
+  font-size: 14px;
+}
+
+.terms-container {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  margin-top: 10px;
+}

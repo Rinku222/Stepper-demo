@@ -1,0 +1,36 @@
+.error-text {
+    color: red;
+    font-size: 14px;
+}
+
+.star-container {
+    display: flex;
+}
+
+.rating-title {
+    margin-bottom: 8px;
+}
+
+.button-container {
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.stepper-container {
+    margin: 40px 0px;
+}
+
+.step-content-container {
+    margin: 0px 40px;
+}
+
+.single-pair {
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+}
+
+.left-container {
+    width: 50%;
+}

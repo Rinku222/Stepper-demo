@@ -1,12 +1,12 @@
 import React from "react";
-import Stepper from "./Screens/Stepper";
+import MainScreen from "./Screens/MainScreen";
 
 const App = () => {
   return (
     <div>
-      <Stepper />
+      <MainScreen />
     </div>
-  )
-}
+  );
+};
 
 export default App;
